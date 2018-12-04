@@ -2,8 +2,8 @@ public class MyStuff
     {
         public string MyWork()
         {
-            Console.WriteLine("Hello World!");
-            
+            var data = "somejunkstuff";
+            return data;
         }
 
     }
